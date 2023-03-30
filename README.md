@@ -20,6 +20,9 @@ O objetivo desse projetinho é aplicar JavaScript para criar um checklist de ite
 
 ### Autor
 
-Feito com ❤️ por Milena Strassburger 👋🏽
+Feito com ❤️ por Milena Strassburger 🤘
 
-[![Linkedin Badge](https://img.shields.io/badge/-Milena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-strassburger/)](https://www.linkedin.com/in/milena-strassburger/) 
+<div>
+<a href="https://instagram.com/miistrass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/milena-strassburger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
