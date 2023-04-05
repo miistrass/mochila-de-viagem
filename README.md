@@ -8,7 +8,8 @@
 
 ### Status
 
-⚠ EM CONSTRUÇÃO ⚠
+Concluído ✅
+Você pode acessar o projeto e fazer a sua lista de itens aqui: https://miistrass.github.io/mochila-de-viagem/
 
 ---
 
