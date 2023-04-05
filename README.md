@@ -9,7 +9,7 @@
 ### Status
 
 Concluído ✅
-Você pode acessar o projeto e fazer a sua lista de itens aqui: https://miistrass.github.io/mochila-de-viagem/
+<p> Você pode acessar o projeto e fazer a sua lista de itens aqui: <a href="https://miistrass.github.io/mochila-de-viagem/">Mochila de viagem</p>
 
 ---
 
