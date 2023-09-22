@@ -1,21 +1,23 @@
-# Mochila de Viagem 
+# Cinetag - Uma página de filmes/vídeos favoritos
 
 ### Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 
 ---
 
 ### Status
 
 Concluído ✅
-<p> Você pode acessar o projeto e fazer a sua lista de itens aqui: <a href="https://miistrass.github.io/mochila-de-viagem/">Mochila de viagem</p>
+<p> Você pode visualizar o projeto clicando aqui [Cinetag](https://cinetag-lyart.vercel.app/)
 
 ---
 
 ### Objetivo
 
-O objetivo desse projetinho é aplicar JavaScript para criar um checklist de itens na WEB para você não esquecer os itens que precisa levar na sua mochila de viagem! 🎒
+O objetivo desse projeto é aplicar meus aprendizados na biblioteca do React. Dando os primeiros passos, criando componentes, definir contextos, evoluir as rotas e externalizar os dados. 
+Teve muito aprendizado em Hooks personalizados e em rotas dinâmicas e alinhadas!
 
 ---
 
